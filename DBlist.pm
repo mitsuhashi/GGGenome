@@ -1034,6 +1034,7 @@ GENCODE_36               	172.18.8.75	28873	GENCODE  	GENCODE human release 36 (
 GENCODE_37               	172.18.8.75	28875	GENCODE  	GENCODE human release 37 (Feb, 2021)	Homo sapiens
 GENCODE_46               	172.18.8.75	29004	GENCODE  	GENCODE human release 46 (May, 2024)	Homo sapiens
 GENCODE_47               	172.18.8.75	29010	GENCODE  	GENCODE human release 47 (Oct, 2024)	Homo sapiens
+GENCODE_49               	172.18.8.135	29022	GENCODE  	GENCODE human release 49 (Sep, 2025)	Homo sapiens
 GENCODE_M13              	172.18.8.75	28729	GENCODE  	GENCODE mouse release M13 (Mar, 2017)	Mus musculus
 GENCODE_M15              	172.18.8.75	28730	GENCODE  	GENCODE mouse release M15 (Aug, 2017)	Mus musculus
 GENCODE_M16              	172.18.8.75	28731	GENCODE  	GENCODE mouse release M16 (Dec, 2017)	Mus musculus
@@ -1045,6 +1046,7 @@ GENCODE_M25              	172.18.8.75	28846	GENCODE  	GENCODE mouse release M25 
 GENCODE_M26              	172.18.8.75	28876	GENCODE  	GENCODE mouse release M26 (Feb, 2021)	Mus musculus
 GENCODE_M35              	172.18.8.75	29005	GENCODE  	GENCODE mouse release M35 (May, 2024)	Mus musculus
 GENCODE_M36              	172.18.8.75	29011	GENCODE  	GENCODE mouse release M36 (Oct, 2024)	Mus musculus
+GENCODE_M38              	172.18.8.136	29023	GENCODE  	GENCODE mouse release M38 (Sep, 2025)	Mus musculus
 miRBase21                	172.18.8.72	28733	miRBase  	miRBase release 21, stem-loop microRNA sequences (Jun, 2014)	
 miRBase21mat             	172.18.8.72	28734	miRBase  	miRBase release 21, mature microRNA sequences (Jun, 2014)	
 miRBase22                	172.18.8.72	28735	miRBase  	miRBase release 22, stem-loop microRNA sequences (Mar, 2018)	

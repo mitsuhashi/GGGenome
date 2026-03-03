@@ -993,6 +993,7 @@ function set_strand(){
 	<option value='rn_refseq70'              synonym="Rattus norvegicus">RefSeq rat RNA release 70 (May, 2015)</option>
 	<option value='rnnm_refseq70'            synonym="Rattus norvegicus">RefSeq rat RNA (NM/NR) release 70 (May, 2015)</option>
 	<option value='rnxm_refseq70'            synonym="Rattus norvegicus">RefSeq rat RNA (XM/XR) release 70 (May, 2015)</option>
+	<option value='GENCODE_49'               synonym="Homo sapiens">GENCODE human release 49 (Sep, 2025)</option>
 	<option value='GENCODE_47'               synonym="Homo sapiens">GENCODE human release 47 (Oct, 2024)</option>
 	<option value='GENCODE_46'               synonym="Homo sapiens">GENCODE human release 46 (May, 2024)</option>
 	<option value='GENCODE_37'               synonym="Homo sapiens">GENCODE human release 37 (Feb, 2021)</option>
@@ -1004,6 +1005,7 @@ function set_strand(){
 	<option value='GENCODE_28'               synonym="Homo sapiens">GENCODE human release 28 (Apr, 2018)</option>
 	<option value='GENCODE_27'               synonym="Homo sapiens">GENCODE human release 27 (Aug, 2017)</option>
 	<option value='GENCODE_26'               synonym="Homo sapiens">GENCODE human release 26 (Mar, 2017)</option>
+	<option value='GENCODE_M38'              synonym="Mus musculus">GENCODE mouse release M38 (Sep, 2025)</option>
 	<option value='GENCODE_M36'              synonym="Mus musculus">GENCODE mouse release M36 (Oct, 2024)</option>
 	<option value='GENCODE_M35'              synonym="Mus musculus">GENCODE mouse release M35 (May, 2024)</option>
 	<option value='GENCODE_M26'              synonym="Mus musculus">GENCODE mouse release M26 (Feb, 2021)</option>
@@ -9916,6 +9918,16 @@ set_strand() ;
 	<td>RefSeq rat RNA (XM/XR) release 70 (May, 2015)
 </tr>
 <tr>
+	<td><a href='/GENCODE_49/'>GENCODE_49</a>
+	<td>GENCODE
+	<td>Mammal
+	<td>Human
+	<td>ヒト
+	<td>Homo sapiens
+	<td><a target='_blank' href='https://www.gencodegenes.org/human/release_49.html'><!--
+		-->GENCODE human release 49 (Sep, 2025)</a>
+</tr>
+<tr>
 	<td><a href='/GENCODE_47/'>GENCODE_47</a>
 	<td>GENCODE
 	<td>Mammal
@@ -10024,6 +10036,16 @@ set_strand() ;
 	<td>Homo sapiens
 	<td><a target='_blank' href='https://www.gencodegenes.org/human/release_26.html'><!--
 		-->GENCODE human release 26 (Mar, 2017)</a>
+</tr>
+<tr>
+	<td><a href='/GENCODE_M38/'>GENCODE_M38</a>
+	<td>GENCODE
+	<td>Mammal
+	<td>Mouse
+	<td>マウス
+	<td>Mus musculus
+	<td><a target='_blank' href='https://www.gencodegenes.org/mouse/release_M38.html'><!--
+		-->GENCODE mouse release M38 (Sep, 2025)</a>
 </tr>
 <tr>
 	<td><a href='/GENCODE_M36/'>GENCODE_M36</a>
