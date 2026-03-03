@@ -892,7 +892,7 @@ function set_strand(){
 
 	<option disabled>--------------------</option>
 
-	<option value='refseq'                   synonym="">RefSeq complete RNA release 232 (Sep, 2025)</option>
+	<option value='refseq'                   synonym="">RefSeq complete RNA release 233 (Jan, 2026)</option>
 	<option value='refseq230'                synonym="">RefSeq complete RNA release 230 (Mar, 2025)</option>
 	<option value='refseq225'                synonym="">RefSeq complete RNA release 225 (Jul, 2024)</option>
 	<option value='refseq220'                synonym="">RefSeq complete RNA release 220 (Sep, 2023)</option>
@@ -8982,7 +8982,16 @@ set_strand() ;
 </thead>
 <tbody>
 <tr>
-	<td><a href='/refseq/'>refseq</a> (alias of latest release)<br><a href='/refseq232/'>refseq232</a>
+	<td><a href='/refseq/'>refseq</a> (alias of latest release)<br><a href='/refseq233/'>refseq233</a>
+	<td>RefSeq
+	<td>
+	<td>
+	<td>
+	<td>
+	<td>RefSeq complete RNA release 233 (Jan, 2026)
+</tr>
+<tr>
+	<td><a href='/refseq232/'>refseq232</a>
 	<td>RefSeq
 	<td>
 	<td>
