@@ -1213,27 +1213,27 @@ function set_strand(){
 
 	<option disabled>--------------------</option>
 
-	<option value='ddbj'                     synonym="">DDBJ release 138.0 (Jun, 2025)</option>
-	<option value='ddbj138hum'               synonym="ddbjhum">DDBJ release 138.0, HUM division (Jun, 2025)</option>
-	<option value='ddbj138pri'               synonym="ddbjpri">DDBJ release 138.0, PRI division (Jun, 2025)</option>
-	<option value='ddbj138rod'               synonym="ddbjrod">DDBJ release 138.0, ROD division (Jun, 2025)</option>
-	<option value='ddbj138mam'               synonym="ddbjmam">DDBJ release 138.0, MAM division (Jun, 2025)</option>
-	<option value='ddbj138vrt'               synonym="ddbjvrt">DDBJ release 138.0, VRT division (Jun, 2025)</option>
-	<option value='ddbj138inv'               synonym="ddbjinv">DDBJ release 138.0, INV division (Jun, 2025)</option>
-	<option value='ddbj138pln'               synonym="ddbjpln">DDBJ release 138.0, PLN division (Jun, 2025)</option>
-	<option value='ddbj138bct'               synonym="ddbjbct">DDBJ release 138.0, BCT division (Jun, 2025)</option>
-	<option value='ddbj138vrl'               synonym="ddbjvrl">DDBJ release 138.0, VRL division (Jun, 2025)</option>
-	<option value='ddbj138phg'               synonym="ddbjphg">DDBJ release 138.0, PHG division (Jun, 2025)</option>
-	<option value='ddbj138pat'               synonym="ddbjpat">DDBJ release 138.0, PAT division (Jun, 2025)</option>
-	<option value='ddbj138env'               synonym="ddbjenv">DDBJ release 138.0, ENV division (Jun, 2025)</option>
-	<option value='ddbj138syn'               synonym="ddbjsyn">DDBJ release 138.0, SYN division (Jun, 2025)</option>
-	<option value='ddbj138est'               synonym="ddbjest">DDBJ release 138.0, EST division (Jun, 2025)</option>
-	<option value='ddbj138tsa'               synonym="ddbjtsa">DDBJ release 138.0, TSA division (Jun, 2025)</option>
-	<option value='ddbj138gss'               synonym="ddbjgss">DDBJ release 138.0, GSS division (Jun, 2025)</option>
-	<option value='ddbj138htc'               synonym="ddbjhtc">DDBJ release 138.0, HTC division (Jun, 2025)</option>
-	<option value='ddbj138htg'               synonym="ddbjhtg">DDBJ release 138.0, HTG division (Jun, 2025)</option>
-	<option value='ddbj138sts'               synonym="ddbjsts">DDBJ release 138.0, STS division (Jun, 2025)</option>
-	<option value='ddbj138una'               synonym="ddbjuna">DDBJ release 138.0, UNA division (Jun, 2025)</option>
+	<option value='ddbj'                     synonym="">DDBJ release 139.0 (Sep, 2025)</option>
+	<option value='ddbj139hum'               synonym="ddbjhum">DDBJ release 139.0, HUM division (Sep, 2025)</option>
+	<option value='ddbj139pri'               synonym="ddbjpri">DDBJ release 139.0, PRI division (Sep, 2025)</option>
+	<option value='ddbj139rod'               synonym="ddbjrod">DDBJ release 139.0, ROD division (Sep, 2025)</option>
+	<option value='ddbj139mam'               synonym="ddbjmam">DDBJ release 139.0, MAM division (Sep, 2025)</option>
+	<option value='ddbj139vrt'               synonym="ddbjvrt">DDBJ release 139.0, VRT division (Sep, 2025)</option>
+	<option value='ddbj139inv'               synonym="ddbjinv">DDBJ release 139.0, INV division (Sep, 2025)</option>
+	<option value='ddbj139pln'               synonym="ddbjpln">DDBJ release 139.0, PLN division (Sep, 2025)</option>
+	<option value='ddbj139bct'               synonym="ddbjbct">DDBJ release 139.0, BCT division (Sep, 2025)</option>
+	<option value='ddbj139vrl'               synonym="ddbjvrl">DDBJ release 139.0, VRL division (Sep, 2025)</option>
+	<option value='ddbj139phg'               synonym="ddbjphg">DDBJ release 139.0, PHG division (Sep, 2025)</option>
+	<option value='ddbj139pat'               synonym="ddbjpat">DDBJ release 139.0, PAT division (Sep, 2025)</option>
+	<option value='ddbj139env'               synonym="ddbjenv">DDBJ release 139.0, ENV division (Sep, 2025)</option>
+	<option value='ddbj139syn'               synonym="ddbjsyn">DDBJ release 139.0, SYN division (Sep, 2025)</option>
+	<option value='ddbj139est'               synonym="ddbjest">DDBJ release 139.0, EST division (Sep, 2025)</option>
+	<option value='ddbj139tsa'               synonym="ddbjtsa">DDBJ release 139.0, TSA division (Sep, 2025)</option>
+	<option value='ddbj139gss'               synonym="ddbjgss">DDBJ release 139.0, GSS division (Sep, 2025)</option>
+	<option value='ddbj139htc'               synonym="ddbjhtc">DDBJ release 139.0, HTC division (Sep, 2025)</option>
+	<option value='ddbj139htg'               synonym="ddbjhtg">DDBJ release 139.0, HTG division (Sep, 2025)</option>
+	<option value='ddbj139sts'               synonym="ddbjsts">DDBJ release 139.0, STS division (Sep, 2025)</option>
+	<option value='ddbj139una'               synonym="ddbjuna">DDBJ release 139.0, UNA division (Sep, 2025)</option>
 
 	<option disabled>--------------------</option>
 
@@ -10136,194 +10136,194 @@ set_strand() ;
 		-->GENCODE mouse release M13 (Mar, 2017)</a>
 </tr>
 <tr>
-	<td><a href='/ddbj/'>ddbj</a> (alias of latest release)<br><a href='/ddbj138/'>ddbj138</a>
+	<td><a href='/ddbj/'>ddbj</a> (alias of latest release)<br><a href='/ddbj139/'>ddbj139</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td><a target='_blank' href='ftp://ftp.ddbj.nig.ac.jp/ddbj_database/release_note_archive/ddbj/ddbjrel.138.txt'><!--
-		-->DDBJ release 138.0 (Jun, 2025)</a><br>(all divisions, excluding bulk sequence data in TLS, TSA, WGS)
+	<td><a target='_blank' href='ftp://ftp.ddbj.nig.ac.jp/ddbj_database/release_note_archive/ddbj/ddbjrel.139.txt'><!--
+		-->DDBJ release 139.0 (Sep, 2025)</a><br>(all divisions, excluding bulk sequence data in TLS, TSA, WGS)
 </tr>
 <tr>
-	<td><a href='/ddbj138hum/'>ddbj138hum</a>
+	<td><a href='/ddbj139hum/'>ddbj139hum</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, HUM division (Jun, 2025)
+	<td>DDBJ release 139.0, HUM division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138pri/'>ddbj138pri</a>
+	<td><a href='/ddbj139pri/'>ddbj139pri</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, PRI division (Jun, 2025)
+	<td>DDBJ release 139.0, PRI division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138rod/'>ddbj138rod</a>
+	<td><a href='/ddbj139rod/'>ddbj139rod</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, ROD division (Jun, 2025)
+	<td>DDBJ release 139.0, ROD division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138mam/'>ddbj138mam</a>
+	<td><a href='/ddbj139mam/'>ddbj139mam</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, MAM division (Jun, 2025)
+	<td>DDBJ release 139.0, MAM division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138vrt/'>ddbj138vrt</a>
+	<td><a href='/ddbj139vrt/'>ddbj139vrt</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, VRT division (Jun, 2025)
+	<td>DDBJ release 139.0, VRT division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138inv/'>ddbj138inv</a>
+	<td><a href='/ddbj139inv/'>ddbj139inv</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, INV division (Jun, 2025)
+	<td>DDBJ release 139.0, INV division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138pln/'>ddbj138pln</a>
+	<td><a href='/ddbj139pln/'>ddbj139pln</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, PLN division (Jun, 2025)
+	<td>DDBJ release 139.0, PLN division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138bct/'>ddbj138bct</a>
+	<td><a href='/ddbj139bct/'>ddbj139bct</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, BCT division (Jun, 2025)
+	<td>DDBJ release 139.0, BCT division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138vrl/'>ddbj138vrl</a>
+	<td><a href='/ddbj139vrl/'>ddbj139vrl</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, VRL division (Jun, 2025)
+	<td>DDBJ release 139.0, VRL division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138phg/'>ddbj138phg</a>
+	<td><a href='/ddbj139phg/'>ddbj139phg</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, PHG division (Jun, 2025)
+	<td>DDBJ release 139.0, PHG division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138pat/'>ddbj138pat</a>
+	<td><a href='/ddbj139pat/'>ddbj139pat</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, PAT division (Jun, 2025)
+	<td>DDBJ release 139.0, PAT division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138env/'>ddbj138env</a>
+	<td><a href='/ddbj139env/'>ddbj139env</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, ENV division (Jun, 2025)
+	<td>DDBJ release 139.0, ENV division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138syn/'>ddbj138syn</a>
+	<td><a href='/ddbj139syn/'>ddbj139syn</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, SYN division (Jun, 2025)
+	<td>DDBJ release 139.0, SYN division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138est/'>ddbj138est</a>
+	<td><a href='/ddbj139est/'>ddbj139est</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, EST division (Jun, 2025)
+	<td>DDBJ release 139.0, EST division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138tsa/'>ddbj138tsa</a>
+	<td><a href='/ddbj139tsa/'>ddbj139tsa</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, TSA division (Jun, 2025)
+	<td>DDBJ release 139.0, TSA division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138gss/'>ddbj138gss</a>
+	<td><a href='/ddbj139gss/'>ddbj139gss</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, GSS division (Jun, 2025)
+	<td>DDBJ release 139.0, GSS division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138htc/'>ddbj138htc</a>
+	<td><a href='/ddbj139htc/'>ddbj139htc</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, HTC division (Jun, 2025)
+	<td>DDBJ release 139.0, HTC division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138htg/'>ddbj138htg</a>
+	<td><a href='/ddbj139htg/'>ddbj139htg</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, HTG division (Jun, 2025)
+	<td>DDBJ release 139.0, HTG division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138sts/'>ddbj138sts</a>
+	<td><a href='/ddbj139sts/'>ddbj139sts</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, STS division (Jun, 2025)
+	<td>DDBJ release 139.0, STS division (Sep, 2025)
 </tr>
 <tr>
-	<td><a href='/ddbj138una/'>ddbj138una</a>
+	<td><a href='/ddbj139una/'>ddbj139una</a>
 	<td>DDBJ
 	<td>
 	<td>
 	<td>
 	<td>
-	<td>DDBJ release 138.0, UNA division (Jun, 2025)
+	<td>DDBJ release 139.0, UNA division (Sep, 2025)
 </tr>
 <tr>
 	<td><a href='/ddbj92/'>ddbj92</a>
@@ -11740,7 +11740,7 @@ set_strand() ;
 
 <hr><!-- __________________________________________________ -->
 
-<p class=g>Last modified on Sep 24, 2025 by
+<p class=g>Last modified on Mar 3, 2026 by
 <a target='_blank' class=a href='https://twitter.com/meso_cacase'>@meso_cacase</a> at 
 <a target='_blank' class=a href='https://dbcls.rois.ac.jp/'>DBCLS</a><br>
 This page is licensed under a
