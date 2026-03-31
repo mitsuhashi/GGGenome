@@ -511,7 +511,7 @@ function set_strand(){
 	<option value='GCF_901000725.2'          synonym="Takifugu rubripes;fugu">Takifugu rubripes genome, fTakRub1.2 (Jun, 2019)</option>
 
 	<option value='eboVir3'                  synonym="Filoviridae ebolavirus">Ebola virus genome, Sierra Leone G3683/KM034562.1/eboVir3 (Jun, 2014)</option>
-	<option value='SARS-CoV-2'               synonym="Severe acute respiratory syndrome coronavirus 2;COVID-19">SARS-CoV-2 complete genomes, GenBank</option>
+	<option value='SARS-CoV-2'               synonym="Severe acute respiratory syndrome coronavirus 2;COVID-19">SARS-CoV-2 complete genomes in GenBank (2022/05)</option>
 
 	<option value='GCA_000009725.1'          synonym="">Synechocystis sp. PCC 6803 genome, GCA_000009725.1</option>
 	<option value='GCA_000009705.1'          synonym="">Nostoc sp. PCC 7120 genome, GCA_000009705.1</option>
@@ -893,7 +893,7 @@ function set_strand(){
 	<option disabled>--------------------</option>
 
 	<option value='refseq'                   synonym="">RefSeq complete RNA release 233 (Jan, 2026)</option>
-	<option value='refseq230'                synonym="">RefSeq complete RNA release 230 (Mar, 2025)</option>
+	<option value='refseq230'                synonym="">RefSeq complete RNA release 230 (May, 2025)</option>
 	<option value='refseq225'                synonym="">RefSeq complete RNA release 225 (Jul, 2024)</option>
 	<option value='refseq220'                synonym="">RefSeq complete RNA release 220 (Sep, 2023)</option>
 	<option value='refseq215'                synonym="">RefSeq complete RNA release 215 (Nov, 2022)</option>
@@ -1000,7 +1000,7 @@ function set_strand(){
 	<option value='GENCODE_36'               synonym="Homo sapiens">GENCODE human release 36 (Oct, 2020)</option>
 	<option value='GENCODE_34'               synonym="Homo sapiens">GENCODE human release 34 (Apr, 2020)</option>
 	<option value='GENCODE_33'               synonym="Homo sapiens">GENCODE human release 33 (Jan, 2020)</option>
-	<option value='GENCODE_31'               synonym="Homo sapiens">GENCODE human release 31 (Jul, 2019)</option>
+	<option value='GENCODE_31'               synonym="Homo sapiens">GENCODE human release 31 (Jun, 2019)</option>
 	<option value='GENCODE_30'               synonym="Homo sapiens">GENCODE human release 30 (Apr, 2019)</option>
 	<option value='GENCODE_28'               synonym="Homo sapiens">GENCODE human release 28 (Apr, 2018)</option>
 	<option value='GENCODE_27'               synonym="Homo sapiens">GENCODE human release 27 (Aug, 2017)</option>
@@ -1011,7 +1011,7 @@ function set_strand(){
 	<option value='GENCODE_M26'              synonym="Mus musculus">GENCODE mouse release M26 (Feb, 2021)</option>
 	<option value='GENCODE_M25'              synonym="Mus musculus">GENCODE mouse release M25 (Apr, 2020)</option>
 	<option value='GENCODE_M24'              synonym="Mus musculus">GENCODE mouse release M24 (Jan, 2020)</option>
-	<option value='GENCODE_M22'              synonym="Mus musculus">GENCODE mouse release M22 (Jul, 2019)</option>
+	<option value='GENCODE_M22'              synonym="Mus musculus">GENCODE mouse release M22 (Jun, 2019)</option>
 	<option value='GENCODE_M21'              synonym="Mus musculus">GENCODE mouse release M21 (Apr, 2019)</option>
 	<option value='GENCODE_M17'              synonym="Mus musculus">GENCODE mouse release M17 (Apr, 2018)</option>
 	<option value='GENCODE_M16'              synonym="Mus musculus">GENCODE mouse release M16 (Dec, 2017)</option>
