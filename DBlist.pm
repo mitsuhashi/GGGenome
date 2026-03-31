@@ -1023,6 +1023,33 @@ rheMac10_d3g2503                                         	172.18.8.77	28990	D3G	
 UM_NZW_1.0chr_RefSeq_prespliced_d3g2503                  	172.18.8.77	28991	D3G	Rabbit pre-spliced RNA, RefSeq on UM_NZW_1.0chr, D3G 25.03 (Mar, 2025)	Oryctolagus cuniculus
 UM_NZW_1.0chr_RefSeq_spliced_d3g2503                     	172.18.8.77	28992	D3G	Rabbit spliced RNA, RefSeq on UM_NZW_1.0chr, D3G 25.03 (Mar, 2025)	Oryctolagus cuniculus
 UM_NZW_1.0chr_d3g2503                                    	172.18.8.77	28993	D3G	Rabbit genome, UM_NZW_1.0chr, D3G 25.03 (Mar, 2025)	Oryctolagus cuniculus
+calJac4_RefSeq_prespliced_d3g2603                        	172.18.8.77	28967	D3G	Marmoset pre-spliced RNA, RefSeq on calJac4, D3G 26.03 (Mar, 2026)	Callithrix jacchus
+calJac4_RefSeq_spliced_d3g2603                           	172.18.8.77	28968	D3G	Marmoset spliced RNA, RefSeq on calJac4, D3G 26.03 (Mar, 2026)	Callithrix jacchus
+calJac4_d3g2603                                          	172.18.8.77	28969	D3G	Marmoset genome, calJac4, D3G 26.03 (Mar, 2026)	Callithrix jacchus
+hg38_RefSeqCurated_prespliced_d3g2603                    	172.18.8.72	29024	D3G	Human pre-spliced RNA, RefSeq curated on GRCh38/hg38.p14, D3G 26.03 (Mar, 2026)	Homo sapiens
+hg38_RefSeqCurated_spliced_d3g2603                       	172.18.8.72	29025	D3G	Human spliced RNA, RefSeq curated on GRCh38/hg38.p14, D3G 26.03 (Mar, 2026)	Homo sapiens
+hg38_RefSeqCuratedProtCoding_prespliced_d3g2603          	172.18.8.72	29026	D3G	Human pre-spliced RNA, RefSeq curated protein coding on GRCh38/hg38.p14, D3G 26.03 (Mar, 2026)	Homo sapiens
+hg38_RefSeqCuratedProtCoding_spliced_d3g2603             	172.18.8.72	29027	D3G	Human spliced RNA, RefSeq curated protein coding on GRCh38/hg38.p14, D3G 26.03 (Mar, 2026)	Homo sapiens
+hg38.p14_d3g2603                                         	172.18.8.77	28974	D3G	Human genome, GRCh38/hg38.p14, D3G 26.03 (Mar, 2026)	Homo sapiens
+T2T-MFA8v1.1_RefSeq_prespliced_d3g2603                   	172.18.8.72	29028	D3G	Crab-eating macaque pre-spliced RNA, RefSeq on T2T-MFA8v1.1, D3G 26.03 (Mar, 2026)	Macaca fascicularis
+T2T-MFA8v1.1_RefSeq_spliced_d3g2603                      	172.18.8.72	29029	D3G	Crab-eating macaque spliced RNA, RefSeq on T2T-MFA8v1.1, D3G 26.03 (Mar, 2026)	Macaca fascicularis
+T2T-MFA8v1.1_d3g2603                                     	172.18.8.72	29030	D3G	Crab-eating macaque genome, T2T-MFA8v1.1, D3G 26.03 (Mar, 2026)	Macaca fascicularis
+mm39_RefSeqCurated_prespliced_d3g2603                    	172.18.8.77	28978	D3G	Mouse pre-spliced RNA, RefSeq curated on GRCm39/mm39, D3G 26.03 (Mar, 2026)	Mus musculus
+mm39_RefSeqCurated_spliced_d3g2603                       	172.18.8.77	28979	D3G	Mouse spliced RNA, RefSeq curated on GRCm39/mm39, D3G 26.03 (Mar, 2026)	Mus musculus
+mm39_RefSeqCuratedProtCoding_prespliced_d3g2603          	172.18.8.77	28980	D3G	Mouse pre-spliced RNA, RefSeq curated protein coding on GRCm39/mm39, D3G 26.03 (Mar, 2026)	Mus musculus
+mm39_RefSeqCuratedProtCoding_spliced_d3g2603             	172.18.8.77	28981	D3G	Mouse spliced RNA, RefSeq curated protein coding on GRCm39/mm39, D3G 26.03 (Mar, 2026)	Mus musculus
+mm39_d3g2603                                             	172.18.8.77	28982	D3G	Mouse genome, GRCm39/mm39, D3G 26.03 (Mar, 2026)	Mus musculus
+GRCr8_RefSeqCurated_prespliced_d3g2603                   	172.18.8.72	29031	D3G	Rat pre-spliced RNA, RefSeq curated on GRCr8, D3G 26.03 (Mar, 2026)	Rattus norvegicus
+GRCr8_RefSeqCurated_spliced_d3g2603                      	172.18.8.72	29032	D3G	Rat spliced RNA, RefSeq curated on GRCr8, D3G 26.03 (Mar, 2026)	Rattus norvegicus
+GRCr8_RefSeqCuratedProtCoding_prespliced_d3g2603         	172.18.8.72	29040	D3G	Rat pre-spliced RNA, RefSeq curated protein coding on GRCr8, D3G 26.03 (Mar, 2026)	Rattus norvegicus
+GRCr8_RefSeqCuratedProtCoding_spliced_d3g2603            	172.18.8.72	29041	D3G	Rat spliced RNA, RefSeq curated protein coding on GRCr8, D3G 26.03 (Mar, 2026)	Rattus norvegicus
+GRCr8_d3g2603                                            	172.18.8.72	29033	D3G	Rat genome, GRCr8, D3G 26.03 (Mar, 2026)	Rattus norvegicus
+T2T-MMU8v2.0_RefSeq_prespliced_d3g2603                   	172.18.8.72	29034	D3G	Rhesus pre-spliced RNA, RefSeq on T2T-MMU8v2.0, D3G 26.03 (Mar, 2026)	Macaca mulatta
+T2T-MMU8v2.0_RefSeq_spliced_d3g2603                      	172.18.8.72	29035	D3G	Rhesus spliced RNA, RefSeq on T2T-MMU8v2.0, D3G 26.03 (Mar, 2026)	Macaca mulatta
+T2T-MMU8v2.0_d3g2603                                     	172.18.8.72	29036	D3G	Rhesus genome, T2T-MMU8v2.0, D3G 26.03 (Mar, 2026)	Macaca mulatta
+mOryCun1.1_RefSeq_prespliced_d3g2603                     	172.18.8.72	29037	D3G	Rabbit pre-spliced RNA, RefSeq on mOryCun1.1, D3G 26.03 (Mar, 2026)	Oryctolagus cuniculus
+mOryCun1.1_RefSeq_spliced_d3g2603                        	172.18.8.72	29038	D3G	Rabbit spliced RNA, RefSeq on mOryCun1.1, D3G 26.03 (Mar, 2026)	Oryctolagus cuniculus
+mOryCun1.1_d3g2603                                       	172.18.8.72	29039	D3G	Rabbit genome, mOryCun1.1, D3G 26.03 (Mar, 2026)	Oryctolagus cuniculus
 GENCODE_26               	172.18.8.75	28726	GENCODE  	GENCODE human release 26 (Mar, 2017)	Homo sapiens
 GENCODE_27               	172.18.8.75	28727	GENCODE  	GENCODE human release 27 (Aug, 2017)	Homo sapiens
 GENCODE_28               	172.18.8.75	28728	GENCODE  	GENCODE human release 28 (Apr, 2018)	Homo sapiens
