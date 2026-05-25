@@ -190,12 +190,17 @@ $redirect_uri .= $download ? '.download' : '' ;
 my $QUERY_STRING = $ENV{'QUERY_STRING'} // '' ; #ADD tyamamot
 $QUERY_STRING =~ s/offset=[0-9]*//g ;           #ADD tyamamot
 $QUERY_STRING =~ s/(&){2,}/$1/g ;               #ADD tyamamot
+my $is_https = (
+	($ENV{'HTTPS'} and $ENV{'HTTPS'} ne 'off') ||
+	(($ENV{'HTTP_X_FORWARDED_PROTO'} // '') =~ /^https$/i) ||
+	(($ENV{'HTTP_X_FORWARDED_SSL'} // '') =~ /^on$/i)
+) ;
+my $scheme = $is_https ? 'https' : 'http' ;
 if ($ENV{'HTTP_HOST'} and                       # HTTP経由のリクエストで、かつ
 	($request_uri ne $redirect_uri or           # 現在のURIと異なる場合にリダイレクト
 	 $QUERY_STRING)                             #CHANGE tyamamot
 ){
-	$ENV{'HTTPS'} ? redirect_page("https://$ENV{'HTTP_HOST'}$redirect_uri") :  # HTTPS経由
-	                redirect_page("http://$ENV{'HTTP_HOST'}$redirect_uri")  ;  # HTTP経由
+	redirect_page("$scheme://$ENV{'HTTP_HOST'}$redirect_uri") ;
 }
 #- ▲ パラメータからURIを生成してリダイレクト
 
@@ -1442,7 +1447,7 @@ my $chata = ($message =~ /\A\s*\z/) ? '' :  # 空白文字のみの場合
 $message
 </font></div>
 
-<img src='chata_ja.png' alt='ニャーン' border=0>
+<img src='/chata_ja.png' alt='ニャーン' border=0>
 
 <hr> <!-- __________________________________________________ -->
 --EOS--
@@ -1545,7 +1550,7 @@ my $chata = ($message =~ /\A\s*\z/) ? '' :  # 空白文字のみの場合
 $message
 </font></div>
 
-<img src='chata_en.png' alt='nyaan' border=0>
+<img src='/chata_en.png' alt='nyaan' border=0>
 
 <hr> <!-- __________________________________________________ -->
 --EOS--

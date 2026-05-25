@@ -27,6 +27,9 @@ RewriteRule  ^dev/  -  [L]
 RewriteRule  ^static/  -  [L]
 
 # パスに/db/k/等が含まれる場合にURIを修正してリダイレクト
+RewriteCond  %{HTTP:X-Forwarded-Proto}  =https
+RewriteCond  %{REQUEST_URI}  ^/((test|bitst)/)?
+RewriteRule  (?:^|/)(static/.*)$  https://%{HTTP_HOST}/%1$1  [R,L]
 RewriteCond  %{REQUEST_URI}  ^/((test|bitst)/)?
 RewriteRule  (?:^|/)(static/.*)$  /%1$1  [R,L]
 #- ▲ static/ 内のファイルを参照
@@ -36,6 +39,9 @@ RewriteRule  (?:^|/)(static/.*)$  /%1$1  [R,L]
 RewriteRule  ^[^/]*\.(png|svg)$  -  [L]
 
 # パスに/db/k/等が含まれる場合にURIを修正してリダイレクト
+RewriteCond  %{HTTP:X-Forwarded-Proto}  =https
+RewriteCond  %{REQUEST_URI}  ^/((test|bitst)/)?
+RewriteRule  (?:^|/)([^/]*\.(png|svg))$  https://%{HTTP_HOST}/%1$1  [R,L]
 RewriteCond  %{REQUEST_URI}  ^/((test|bitst)/)?
 RewriteRule  (?:^|/)([^/]*\.(png|svg))$  /%1$1  [R,L]
 #- ▲ ロゴ等の画像ファイルの表示

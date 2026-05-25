@@ -10,9 +10,9 @@
 <link rel='stylesheet' type='text/css' media='all' charset='UTF-8'
 	href='//cdn.sencha.com/ext/gpl/4.2.1/resources/css/ext-all-neptune.css'>
 <link rel='stylesheet' type='text/css' media='all' charset='UTF-8'
-	href='static/css/style.css'>
+	href='/static/css/style.css'>
 <link rel='icon' type='image/svg+xml'
-	href='favicon.svg'>
+	href='/favicon.svg'>
 <script type='text/javascript' charset='utf-8'
 	src='//cdn.sencha.com/ext/gpl/4.2.1/ext-all.js'></script>
 <script type='text/javascript' charset='utf-8'
@@ -88,10 +88,10 @@ function hideDebug() {
 
 <body style='background:white'>
 
-<a href='.'><img src='GGGlogo_en.png' alt='GGGenome' height=64 width=305 border=0></a><span style='margin:25px'></span>
+<a href='/'><img src='/GGGlogo_en.png' alt='GGGenome' height=64 width=305 border=0></a><span style='margin:25px'></span>
 
 <small style='vertical-align:55px'>
-<a href='help.html'>Help</a>
+<a href='/help.html'>Help</a>
 <font color=silver>|</font>
 <a href='?lang=ja' >Japanese</a>
 </small>
@@ -129,7 +129,12 @@ This page is licensed under a
 Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.</p>
 
 <!-- paging toolbar and dropdown menu -->
-<script type='text/javascript' src='static/js/app.js' charset='utf-8'></script>
+<script type='text/javascript' src='/static/js/app.js' charset='utf-8'></script>
+<script type='text/javascript'>
+window.setTimeout(function(){
+	if (document.body) document.body.style.visibility = 'visible';
+}, 3000);
+</script>
 
 </body>
 </html>
